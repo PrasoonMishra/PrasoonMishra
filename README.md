@@ -14,7 +14,7 @@ I am Prasoon. I am a Researcher at CSE@IITM.
 <br>
 
 ### 📫 How to reach me:
-<a href="mailto:prasoon@cse.iitm.ac.in"><img src="https://github.com/PrasoonMishra/PrasoonMishra/master/logos/google-plus.png" width="40" /></a>
+<a href="mailto:prasoon@cse.iitm.ac.in"><img src="https://github.com/PrasoonMishra/PrasoonMishra/logos/google-plus.png" width="40" /></a>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Prasoon on LinkedIn" title="Follow Prasoon on LinkedIn"/>](https://www.linkedin.com/in/mishra-prasoon/)
 
 
