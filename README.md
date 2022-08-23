@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Prasoon <sub>{Programmer,Researcher}</sub>.
+I am Prasoon <sup>{Programmer,Researcher}</sup>.
 
 ### About Me:
 - Doing research in Parallel programming with [Prof. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/).
