@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Prasoon. Living to have a impact, no matter how small it is. 🌲\\
-Will love to write "Tales of a Gutsy Ninja Programmer" one day. 😉
+-I am Prasoon. Living to have a impact, no matter how small it is. 🌲
+-Will love to write "Tales of a Gutsy Ninja Programmer" one day. 😉
 
 ### About Me:
 - Doing research in Parallel programming with [Prof. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/).
