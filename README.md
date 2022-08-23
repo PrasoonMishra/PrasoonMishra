@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Prasoon. I am a Researcher at CSE@IITM. 
+I am Prasoon. I am a researcher at CSE@IITM. 
 
 ### About Me:
 - Doing research in Parallel programming with [Prof. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/).
@@ -14,7 +14,7 @@ I am Prasoon. I am a Researcher at CSE@IITM.
 <br>
 
 ### 📫 How to reach me:
-<a href="mailto:prasoon@cse.iitm.ac.in"><img src="https://github.com/PrasoonMishra/PrasoonMishra//blob/master/logos/google-plus.png" width="40" /></a>
+<a href="mailto:prasoon@cse.iitm.ac.in"><img src="https://github.com/PrasoonMishra/PrasoonMishra//blob/master/logos/google-plus.png" /></a>
 
 <!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Prasoon on LinkedIn" title="Follow Prasoon on LinkedIn"/>](https://www.linkedin.com/in/mishra-prasoon/) -->
 
