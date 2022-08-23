@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Prasoon. *Living to have a impact, no matter how small it is.* 🌲
+I am Prasoon <sub>{Programmer,Researcher}</sub>.
 
 ### About Me:
 - Doing research in Parallel programming with [Prof. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/).
@@ -18,6 +18,8 @@ I am Prasoon. *Living to have a impact, no matter how small it is.* 🌲
 <a href="mailto:prasoon@cse.iitm.ac.in"><img src="https://raw.githubusercontent.com/PrasoonMishra/PrasoonMishra/master/logos/gmail_better.png" width="40" /></a>
 [<img src="https://raw.githubusercontent.com/PrasoonMishra/PrasoonMishra/master/logos/linkedin.png" width="40" alt="Follow Prasoon on LinkedIn" title="Follow Prasoon on LinkedIn"/>](https://www.linkedin.com/in/mishra-prasoon/)
 
+### 🌲 Goal:
+*Living to have an impact in this world, no matter how small it is.*
 
 <!--
 **PrasoonMishra/PrasoonMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
