@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-I am Prasoon <sup>{Programmer,Researcher}</sup>.
+I am Prasoon <sup>{High Performance Researcher, Compiler Engineer}</sup>.
 
 ### About Me:
-- Doing research in Parallel programming with [Prof. Krishna Nandivada](http://www.cse.iitm.ac.in/~krishna/).
-- Interested in High Performance Computing & Compilers
-- Occasionally doing Competitive Programming
-- Love chess
-- Will love to write "Tales of a Gutsy Ninja Programmer" one day. 😉
-
-### 🔨 Languages and Tools:
-
-<br>
-<br>
+- Love High Performance Computing & Compilers.
+- Occasionally doing Competitive Programming.
+- Agressive chess player.
+- Tales of a Gutsy Ninja Programmer is in progress.
 
 ### 📫 Wanna discuss some ideas, reach me:
 <a href="mailto:prasoon@cse.iitm.ac.in"><img src="https://raw.githubusercontent.com/PrasoonMishra/PrasoonMishra/master/logos/gmail_better.png" width="40" /></a>
